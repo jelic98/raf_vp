@@ -2,8 +2,6 @@
 
 # RAF VP
 
-### TODO: Remove MongoDB connection string
-
 Project from *"Big Data"* course at Faculty of Computing in Belgrade.
 
 Project: [statement](https://github.com/jelic98/raf_vp/blob/main/project/project.pdf), [implementation](https://github.com/jelic98/raf_vp/tree/main/project/main.ipynb)
